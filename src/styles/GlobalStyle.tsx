@@ -10,6 +10,7 @@ body,
 html {
   margin: 0;
   font-family: "oswald", sans-serif;
+  scroll-behavior: smooth;
 }
 
 body {
